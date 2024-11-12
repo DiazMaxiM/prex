@@ -51,39 +51,39 @@ php artisan migrate --seed
 
 ### Use Cases Diagram
 
-![](https://github.com/DiazMaxiM/prex/blob/main/.github/prex-use-case.drawio.png?raw=true)
+![](https://github.com/DiazMaxiM/prex/blob/master/.github/prex-use-case.drawio.png?raw=true)
 
-[link](https://github.com/DiazMaxiM/prex/blob/main/.github/prex-use-case.drawio.png)
+[link](https://github.com/DiazMaxiM/prex/blob/master/.github/prex-use-case.drawio.png)
 
 ### Sequence Diagrams
 
 #### Authenticate
 
-![](https://github.com/DiazMaxiM/prex/blob/main/.github/prex-seq-auth.drawio.png?raw=true)
+![](https://github.com/DiazMaxiM/prex/blob/master/.github/prex-seq-auth.drawio.png?raw=true)
 
-[link](https://github.com/DiazMaxiM/prex/blob/main/.github/prex-seq-auth.drawio.png)
+[link](https://github.com/DiazMaxiM/prex/blob/master/.github/prex-seq-auth.drawio.png)
 
 #### Search
 
-![](https://github.com/DiazMaxiM/prex/blob/main/.github/prex-seq-search.drawio.png?raw=true)
+![](https://github.com/DiazMaxiM/prex/blob/master/.github/prex-seq-search.drawio.png?raw=true)
 
-[link](https://github.com/DiazMaxiM/prex/blob/main/.github/prex-seq-search.drawio.png)
+[link](https://github.com/DiazMaxiM/prex/blob/master/.github/prex-seq-search.drawio.png)
 
 #### Get Single Gif
 
-![](https://github.com/DiazMaxiM/prex/blob/main/.github/prex-seq-get.drawio.png?raw=true)
+![](https://github.com/DiazMaxiM/prex/blob/master/.github/prex-seq-get.drawio.png?raw=true)
 
-[link](https://github.com/DiazMaxiM/prex/blob/main/.github/prex-seq-get.drawio.png)
+[link](https://github.com/DiazMaxiM/prex/blob/master/.github/prex-seq-get.drawio.png)
 
 #### Add GIF to Favorites
 
-![](https://github.com/DiazMaxiM/prex/blob/main/.github/prex-seq-fav.drawio.png?raw=true)
+![](https://github.com/DiazMaxiM/prex/blob/master/.github/prex-seq-fav.drawio.png?raw=true)
 
-[link](https://github.com/DiazMaxiM/prex/blob/main/.github/prex-seq-fav.drawio.png)
+[link](https://github.com/DiazMaxiM/prex/blob/master/.github/prex-seq-fav.drawio.png)
 
 ### Entity Relationship Diagram
 
-![](https://github.com/DiazMaxiM/prex/blob/main/.github/prex-erd.drawio.png?raw=true)
+![](https://github.com/DiazMaxiM/prex/blob/master/.github/prex-erd.drawio.png?raw=true)
 
-[link](https://github.com/DiazMaxiM/prex/blob/main/.github/prex-erd.drawio.png)
+[link](https://github.com/DiazMaxiM/prex/blob/master/.github/prex-erd.drawio.png)
 
